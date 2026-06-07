@@ -1,0 +1,11 @@
+bs4
+beautifulsoup4
+numpy
+rich
+botocore
+discord
+ipranges
+telebot
+pystyle
+pycryptodome
+vonage
